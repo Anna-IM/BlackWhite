@@ -1,2 +1,3 @@
-# BlackWhite simple homepage for website
+# BlackWhite simple homepage idea for a website
+
 Work in progress
